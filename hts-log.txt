@@ -1,0 +1,96 @@
+HTTrack3.49-2 launched on Sun, 07 Apr 2024 22:31:00 at https://evodrama.net
+(httrack https://evodrama.net -N1 )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:33:28	Error: 	"Method Not Allowed" (405) at link https://evodrama.net/xmlrpc.php (from https://evodrama.net/)
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=44
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=44 to https://evodrama.net/?page_id=44
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=23
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=23 to https://evodrama.net/?page_id=23
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=158
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=158 to https://evodrama.net/?page_id=158
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=165
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=165 to https://evodrama.net/?page_id=165
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=171
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=171 to https://evodrama.net/?page_id=171
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=176
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=176 to https://evodrama.net/?page_id=176
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=179
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=179 to https://evodrama.net/?page_id=179
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=181
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=181 to https://evodrama.net/?page_id=181
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=185
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=185 to https://evodrama.net/?page_id=185
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=190
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=190 to https://evodrama.net/?page_id=190
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=212
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=212 to https://evodrama.net/?page_id=212
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=216
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=216 to https://evodrama.net/?page_id=216
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=219
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=219 to https://evodrama.net/?page_id=219
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=221
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=221 to https://evodrama.net/?page_id=221
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=223
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=223 to https://evodrama.net/?page_id=223
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=226
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=226 to https://evodrama.net/?page_id=226
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=286
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=286 to https://evodrama.net/?page_id=286
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=289
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=289 to https://evodrama.net/?page_id=289
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=292
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=292 to https://evodrama.net/?page_id=292
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=295
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=295 to https://evodrama.net/?page_id=295
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=298
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=298 to https://evodrama.net/?page_id=298
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=302
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=302 to https://evodrama.net/?page_id=302
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=306
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=306 to https://evodrama.net/?page_id=306
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=310
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=310 to https://evodrama.net/?page_id=310
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=316
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=316 to https://evodrama.net/?page_id=316
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=318
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=318 to https://evodrama.net/?page_id=318
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=321
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=321 to https://evodrama.net/?page_id=321
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=326
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=326 to https://evodrama.net/?page_id=326
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=331
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=331 to https://evodrama.net/?page_id=331
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=281
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=281 to https://evodrama.net/?page_id=281
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=336
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=336 to https://evodrama.net/?page_id=336
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=340
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=340 to https://evodrama.net/?page_id=340
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=354
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=354 to https://evodrama.net/?page_id=354
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=363
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=363 to https://evodrama.net/?page_id=363
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=367
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=367 to https://evodrama.net/?page_id=367
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=370
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=370 to https://evodrama.net/?page_id=370
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=41
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=41 to https://evodrama.net/?page_id=41
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=97
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=97 to https://evodrama.net/?page_id=97
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=100
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=100 to https://evodrama.net/?page_id=100
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=18
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=18 to https://evodrama.net/?page_id=18
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=38
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=38 to https://evodrama.net/?page_id=38
+22:38:07	Warning: 	Moved Permanently for https://evodrama.net/?p=6
+22:38:07	Warning: 	File has moved from https://evodrama.net/?p=6 to https://evodrama.net/?page_id=6
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 7 seconds : 272 links scanned, 228 files written (2045402 bytes overall) [953122 bytes received at 2232 bytes/sec], 1792908 bytes transferred using HTTP compression in 173 files, ratio 32%, 7.7 requests per connection
+(1 errors, 84 warnings, 0 messages)
